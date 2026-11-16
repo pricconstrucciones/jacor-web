@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-10-23T00:00:00.000Z",
+  "ejemplo": true,
+  "lines": {
+    "indumentaria-laboral": { "name": "Indumentaria laboral", "categories": ["Camisas", "Pantalones", "Bombachas de campo", "Bermudas", "Remeras y chombas", "Ambos"] },
+    "calzado-de-seguridad": { "name": "Calzado de seguridad", "categories": ["Calzado de seguridad"] },
+    "epp": { "name": "Elementos de protección personal", "categories": ["Elementos de seguridad"] }
+  },
+  "products": [
+    { "slug": "pantalon-de-ejemplo", "name": "Pantalón de ejemplo", "brand": "Marca de ejemplo", "category": "Pantalones", "line": "indumentaria-laboral", "description": "Datos de EJEMPLO para desarrollo. Se reemplazan al publicar el catálogo desde la gestión.", "colors": ["Azul", "Beige"], "sizes": ["38", "40", "42", "44"], "images": [] },
+    { "slug": "camisa-de-ejemplo", "name": "Camisa de ejemplo", "brand": "Marca de ejemplo", "category": "Camisas", "line": "indumentaria-laboral", "description": null, "colors": ["Celeste"], "sizes": ["40", "42", "44"], "images": [] },
+    { "slug": "botin-de-ejemplo", "name": "Botín de ejemplo", "brand": "Marca de ejemplo", "category": "Calzado de seguridad", "line": "calzado-de-seguridad", "description": null, "colors": ["Negro"], "sizes": ["40", "41", "42", "43"], "images": [] },
+    { "slug": "casco-de-ejemplo", "name": "Casco de ejemplo", "brand": "Marca de ejemplo", "category": "Elementos de seguridad", "line": "epp", "description": null, "colors": ["Blanco"], "sizes": [], "images": [] }
+  ]
+}
